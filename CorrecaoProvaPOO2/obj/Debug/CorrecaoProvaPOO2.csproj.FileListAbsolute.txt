@@ -1,0 +1,12 @@
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\bin\Debug\CorrecaoProvaPOO2.exe.config
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\bin\Debug\CorrecaoProvaPOO2.exe
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\bin\Debug\CorrecaoProvaPOO2.pdb
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\obj\Debug\CorrecaoProvaPOO2.csproj.AssemblyReference.cache
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\obj\Debug\CorrecaoProvaPOO2.Form1.resources
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\obj\Debug\CorrecaoProvaPOO2.Properties.Resources.resources
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\obj\Debug\CorrecaoProvaPOO2.csproj.GenerateResource.cache
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\obj\Debug\CorrecaoProvaPOO2.csproj.CoreCompileInputs.cache
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\obj\Debug\CorrecaoProvaPOO2.exe
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\obj\Debug\CorrecaoProvaPOO2.pdb
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\obj\Debug\CorrecaoProvaPOO2.Cadastro.resources
+C:\Users\ALUNOS\source\repos\CorrecaoProvaPOO2\CorrecaoProvaPOO2\obj\Debug\CorrecaoProvaPOO2.ExibirCadastro.resources
